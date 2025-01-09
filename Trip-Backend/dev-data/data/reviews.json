@@ -1,0 +1,289 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "review": "Un circuit incroyable avec des paysages à couper le souffle. La découverte de Saint-Malo et du Cap Fréhel reste inoubliable.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c2960"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9109",
+    "review": "Une belle aventure au cœur de la Bretagne, très bien orchestrée. La randonnée à Perros-Guirec était magnifique.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c2960"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910a",
+    "review": "Une immersion parfaite dans la culture bretonne, entre mer et légendes locales. La visite de Quimper fut un vrai moment de détente.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c2960"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c910b",
+    "review": "Ce tour m'a permis de découvrir des paysages sauvages et préservés. Très bien organisé, je recommande vivement.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c2960"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c910c",
+    "review": "Un excellent voyage, mais un peu de pluie à Saint-Malo a ralenti notre exploration. Heureusement, la gastronomie bretonne a compensé.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c2960"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c910d",
+    "review": "Un tour fascinant au cœur de la culture basque. Biarritz et Saint-Jean-de-Luz sont des joyaux.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c910e",
+    "review": "La dégustation de produits locaux était un vrai délice, et les paysages entre mer et montagne sont époustouflants.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910f",
+    "review": "Superbe expérience ! La randonnée autour d'Espelette m'a vraiment émerveillé. Un vrai voyage dans le temps et les traditions.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9110",
+    "review": "Un tour très agréable, mais j'aurais aimé plus de temps à Saint-Jean-Pied-de-Port pour explorer les petites ruelles.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9111",
+    "review": "La visite des villages basques a été un vrai coup de cœur. Je reviendrai pour en découvrir davantage.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c9112",
+    "review": "Un tour exceptionnel qui m'a fait découvrir la beauté sauvage de la Corse. Bonifacio et Porto-Vecchio étaient sublimes.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c2980"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9113",
+    "review": "Un voyage entre mer et montagne avec des paysages à couper le souffle. J'ai adoré la randonnée autour de Corte.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c2980"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c9114",
+    "review": "Les plages corses sont magnifiques. Très bon tour, mais un peu trop rapide pour vraiment profiter de tout.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c2980"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9115",
+    "review": "Un rêve devenu réalité. Les paysages de la Corse sont inégalés. Bonifacio est un incontournable!",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c2980"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9116",
+    "review": "Très bien organisé, mais je recommande d'inclure plus de temps à Porto-Vecchio pour profiter des plages.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c2980"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c9122",
+    "review": "Une immersion dans l'histoire. Les châteaux comme Chambord et Chenonceau sont majestueux.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c3010"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9123",
+    "review": "Un voyage culturel et fascinant. La visite de Château de Villandry et ses jardins était magique.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c3010"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c9124",
+    "review": "Un superbe tour pour les amoureux d'histoire et d'architecture. Les jardins du Château de Villandry étaient époustouflants.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c3010"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9125",
+    "review": "Superbe tour, mais le transport pourrait être amélioré pour gagner un peu de temps à chaque étape.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c3010"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9126",
+    "review": "Les châteaux de la Loire sont vraiment impressionnants. Un des meilleurs circuits historiques que j'ai fait.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c3010"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c9127",
+    "review": "Un tour absolument magnifique ! Les villages alsaciens comme Eguisheim sont un véritable délice à visiter.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c3020"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9128",
+    "review": "La route des vins d'Alsace est une expérience sensorielle incroyable. Les dégustations étaient délicieuses et les paysages superbes.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c3020"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c9129",
+    "review": "Le passage par Strasbourg est un incontournable, et la visite de la cathédrale est un moment fort du voyage.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c3020"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9130",
+    "review": "Le circuit est bien organisé et nous donne un bel aperçu de la culture alsacienne. Une mention spéciale pour la région autour de Colmar.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c3020"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9131",
+    "review": "Superbes paysages et une belle immersion dans l'histoire locale. Mais quelques trajets étaient un peu longs entre les étapes.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c3020"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c9132",
+    "review": "Un voyage fascinant à travers l'histoire, avec des visites incroyables comme la grotte de Lascaux. Le Périgord est une véritable merveille.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c3030"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9133",
+    "review": "Le Périgord est un endroit magnifique. Les châteaux de Beynac et Castelnaud sont très bien préservés et impressionnants.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c3030"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c9134",
+    "review": "Le tour est très enrichissant, mais un peu plus de temps pour explorer les marchés locaux et goûter la gastronomie périgourdine aurait été idéal.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c3030"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9135",
+    "review": "Un superbe tour ! Les paysages sont magnifiques et la richesse culturelle du Périgord m'a vraiment impressionné.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c3030"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9136",
+    "review": "Le Périgord est une région incroyable. J'ai particulièrement apprécié la visite des sites préhistoriques, mais un peu plus de temps à Sarlat aurait été parfait.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c3030"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c9137",
+    "review": "Une expérience incroyable ! Les montagnes et les panoramas de Chamonix sont tout simplement époustouflants.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c3000"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9138",
+    "review": "Le Mont-Blanc est à couper le souffle et les villages alpins sont adorables. La randonnée était un vrai défi, mais tellement gratifiante.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c3000"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c9139",
+    "review": "Une région magnifique, mais le tour est assez intense, avec des étapes un peu longues. Cependant, la beauté des Alpes vaut bien l'effort.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c3000"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9140",
+    "review": "Un tour splendide pour les amateurs de nature. Les vues sur le Mont-Blanc et les glaciers sont à ne pas manquer.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c3000"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9141",
+    "review": "Les Alpes sont un lieu incroyable, mais le rythme du tour aurait pu être un peu plus détendu. Toutefois, la qualité des paysages compense largement.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c3000"
+  },
+
+  {
+    "_id": "5c8a34ed14eb5c17645c9117",
+    "review": "Un circuit magique entre les champs de lavande et les villages perchés. Saint-Tropez est toujours un plaisir!",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa109",
+    "tour": "5c88fa8cf4afda39709c2990"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9118",
+    "review": "La Côte d'Azur m'a fasciné, et les visites de Gordes et Valensole étaient superbes. Une belle manière de découvrir la Provence.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa110",
+    "tour": "5c88fa8cf4afda39709c2990"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c9119",
+    "review": "Un voyage agréable avec de magnifiques paysages. La gastronomie provençale est délicieuse!",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa111",
+    "tour": "5c88fa8cf4afda39709c2990"
+  },
+  {
+    "_id": "5c8a364014eb5c17645c9120",
+    "review": "Très bon tour, mais j'aurais aimé plus de temps à Nice pour vraiment profiter de la ville.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa112",
+    "tour": "5c88fa8cf4afda39709c2990"
+  },
+  {
+    "_id": "5c8a368514eb5c17645c9121",
+    "review": "Les vins et les paysages sont superbes. Un bon équilibre entre culture, nature et détente.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa113",
+    "tour": "5c88fa8cf4afda39709c2990"
+  }
+]

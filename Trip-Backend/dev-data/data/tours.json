@@ -1,0 +1,454 @@
+[
+  {
+    "startLocation": {
+      "description": "Rennes, France",
+      "type": "Point",
+      "coordinates": [-1.677793, 48.117266],
+      "address": "Place de la Mairie, 35000 Rennes, France"
+    },
+    "ratingsAverage": 4.3,
+    "ratingsQuantity": 12,
+    "images": [],
+    "startDates": [
+      "2025-05-15T09:00:00.000Z",
+      "2025-06-12T09:00:00.000Z",
+      "2025-07-10T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2960",
+    "name": "L'Aventure Bretonne",
+    "duration": 7,
+    "maxGroupSize": 12,
+    "difficulty": "medium",
+    "guides": ["5c8a24822f8fb814b56fa102", "5c8a24822f8fb814b56fa105"],
+    "price": 900,
+    "summary": "Découverte des joyaux de la côte bretonne, entre terre et mer",
+    "description": "Partez à la découverte de la Bretagne authentique, une région où la terre et la mer se rencontrent dans un ballet perpétuel.\nCe circuit vous emmène sur les plus beaux sites du littoral breton, des remparts de Saint-Malo aux alignements de Carnac.\nVous découvrirez des paysages à couper le souffle, une gastronomie unique et des traditions séculaires toujours vivantes.\nChaque journée vous réserve son lot de surprises : navigation vers des îles préservées, dégustation de fruits de mer fraîchement pêchés, randonnées sur les sentiers côtiers et exploration de villages pittoresques.",
+    "imageCover": "tour-bretagne-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Saint-Malo",
+        "type": "Point",
+        "coordinates": [-2.025674, 48.649337],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Cap Fréhel",
+        "type": "Point",
+        "coordinates": [-2.29224, 48.684823],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Perros-Guirec",
+        "type": "Point",
+        "coordinates": [-3.435973, 48.813229],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Quimper",
+        "type": "Point",
+        "coordinates": [-4.0979, 47.997542],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bayonne, France",
+      "type": "Point",
+      "coordinates": [-1.475039, 43.493421],
+      "address": "Place de la Liberté, 64100 Bayonne, France"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 17,
+    "images": [],
+    "startDates": [
+      "2025-01-20T09:00:00.000Z",
+      "2025-02-17T09:00:00.000Z",
+      "2025-03-15T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Secrets du Pays Basque",
+    "duration": 6,
+    "maxGroupSize": 10,
+    "difficulty": "medium",
+    "guides": ["5c8a24822f8fb814b56fa103", "5c8a24822f8fb814b56fa106"],
+    "price": 850,
+    "summary": "Entre océan et montagne, découvrez l'âme du Pays Basque",
+    "description": "Plongez dans la culture unique du Pays Basque, où traditions séculaires et art de vivre contemporain se mêlent harmonieusement.\nDe la côte atlantique aux premiers contreforts des Pyrénées, ce circuit vous fait découvrir une région au caractère bien trempé.\nVous explorerez des villages typiques aux maisons blanches et rouges, participerez à des dégustations de produits locaux (piment d'Espelette, jambon de Bayonne), et vous imprégnerez de la culture basque à travers ses fêtes, sa musique et ses traditions.\nLes randonnées dans l'arrière-pays offrent des panoramas exceptionnels, tandis que les stations balnéaires vous invitent à la détente.",
+    "imageCover": "tour-paysbasque-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2974",
+        "description": "Biarritz",
+        "type": "Point",
+        "coordinates": [-1.558626, 43.483152],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Saint-Jean-de-Luz",
+        "type": "Point",
+        "coordinates": [-1.661535, 43.389084],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Espelette",
+        "type": "Point",
+        "coordinates": [-1.449064, 43.339639],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Saint-Jean-Pied-de-Port",
+        "type": "Point",
+        "coordinates": [-1.236721, 43.163141],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Ajaccio, France",
+      "type": "Point",
+      "coordinates": [8.738635, 41.919229],
+      "address": "Place Foch, 20000 Ajaccio, France"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 15,
+    "images": [],
+    "startDates": [
+      "2025-03-10T09:00:00.000Z",
+      "2025-04-07T09:00:00.000Z",
+      "2025-05-20T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2980",
+    "name": "L'Île de Beauté",
+    "duration": 8,
+    "maxGroupSize": 12,
+    "difficulty": "medium",
+    "guides": ["5c8a24822f8fb814b56fa103", "5c8a24822f8fb814b56fa107"],
+    "price": 1100,
+    "summary": "Un voyage au cœur de la Corse authentique, entre mer et montagne",
+    "description": "Découvrez la Corse dans toute sa splendeur, une île où la beauté sauvage des paysages n'a d'égale que la richesse de son patrimoine.\nCe circuit complet vous permet d'explorer les plus beaux sites de l'île : des plages paradisiaques aux montagnes majestueuses, des villages perchés aux cités historiques.\nVous parcourrez les sentiers du maquis parfumé, découvrirez des criques secrètes accessibles uniquement par la mer, et vous immergerez dans la culture corse à travers sa gastronomie, ses chants traditionnels et son histoire passionnante.\nChaque étape est une nouvelle facette de cette île qui mérite bien son surnom d'Île de Beauté.",
+    "imageCover": "tour-corse-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2984",
+        "description": "Bonifacio",
+        "type": "Point",
+        "coordinates": [9.149473, 41.387174],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2983",
+        "description": "Porto-Vecchio",
+        "type": "Point",
+        "coordinates": [9.279907, 41.591633],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2982",
+        "description": "Corte",
+        "type": "Point",
+        "coordinates": [9.148771, 42.307892],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2981",
+        "description": "Calvi",
+        "type": "Point",
+        "coordinates": [8.755792, 42.567847],
+        "day": 7
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Avignon, France",
+      "type": "Point",
+      "coordinates": [4.806863, 43.949317],
+      "address": "Place du Palais des Papes, 84000 Avignon, France"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 18,
+    "images": [],
+    "startDates": [
+      "2025-08-15T09:00:00.000Z",
+      "2025-09-20T09:00:00.000Z",
+      "2025-10-10T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2990",
+    "name": "Splendeurs de Provence",
+    "duration": 8,
+    "maxGroupSize": 14,
+    "difficulty": "easy",
+    "guides": ["5c8a24822f8fb814b56fa102", "5c8a24822f8fb814b56fa108"],
+    "price": 1300,
+    "summary": "Des lavandes du Luberon aux plages de la Côte d'Azur",
+    "description": "Laissez-vous envoûter par les charmes de la Provence et de la Côte d'Azur.\nCe circuit vous emmène à travers les plus beaux villages perchés du Luberon, les champs de lavande du plateau de Valensole, et les stations prestigieuses du littoral.\nVous découvrirez l'art de vivre provençal à travers ses marchés colorés, sa gastronomie ensoleillée et son riche patrimoine culturel.\nDes dégustations de vins dans les domaines réputés, des visites de villages classés parmi les plus beaux de France, et des moments de détente sur les plages de la Méditerranée rythmeront votre séjour.\nUn voyage qui éveille tous les sens, entre culture, histoire et dolce vita.",
+    "imageCover": "tour-provence-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2994",
+        "description": "Gordes",
+        "type": "Point",
+        "coordinates": [5.20077, 43.911463],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2993",
+        "description": "Valensole",
+        "type": "Point",
+        "coordinates": [5.983333, 43.837222],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2992",
+        "description": "Saint-Tropez",
+        "type": "Point",
+        "coordinates": [6.640833, 43.273056],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2991",
+        "description": "Nice",
+        "type": "Point",
+        "coordinates": [7.261953, 43.710173],
+        "day": 8
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Annecy, France",
+      "type": "Point",
+      "coordinates": [6.129384, 45.899247],
+      "address": "Place de l'Hôtel de Ville, 74000 Annecy, France"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 21,
+    "images": [],
+    "startDates": [
+      "2025-06-20T09:00:00.000Z",
+      "2025-07-15T09:00:00.000Z",
+      "2025-08-10T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c3000",
+    "name": "Grandeur des Alpes",
+    "duration": 7,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a24822f8fb814b56fa103",
+      "5c8a24822f8fb814b56fa109",
+      "5c8a24822f8fb814b56fa111"
+    ],
+    "price": 1500,
+    "summary": "Une aventure alpine entre lacs cristallins et sommets majestueux",
+    "description": "Vivez une expérience unique au cœur des Alpes françaises, où la nature s'exprime dans toute sa splendeur.\nCe circuit sportif vous emmène à la découverte des plus beaux sommets et lacs de la région.\nDes randonnées guidées vous permettront d'accéder à des points de vue exceptionnels sur le Mont Blanc et les glaciers environnants.\nVous découvrirez également le patrimoine montagnard à travers ses villages authentiques, sa gastronomie savoyarde et ses traditions ancestrales.\nLes activités comprennent de la randonnée en altitude, du rafting dans les torrents alpins, et des ascensions de cols mythiques.\nUn séjour qui combine effort physique et émerveillement devant la grandeur des paysages alpins.",
+    "imageCover": "tour-alpes-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c3004",
+        "description": "Chamonix Mont-Blanc",
+        "type": "Point",
+        "coordinates": [6.869433, 45.923697],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3003",
+        "description": "Megève",
+        "type": "Point",
+        "coordinates": [6.619908, 45.856614],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3002",
+        "description": "Val d'Isère",
+        "type": "Point",
+        "coordinates": [6.976941, 45.450436],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3001",
+        "description": "Tignes",
+        "type": "Point",
+        "coordinates": [6.905334, 45.468605],
+        "day": 7
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Tours, France",
+      "type": "Point",
+      "coordinates": [0.689967, 47.394144],
+      "address": "Place Plumereau, 37000 Tours, France"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 16,
+    "images": [],
+    "startDates": [
+      "2025-05-05T09:00:00.000Z",
+      "2025-06-15T09:00:00.000Z",
+      "2025-09-07T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c3010",
+    "name": "Les Châteaux de la Loire",
+    "duration": 6,
+    "maxGroupSize": 16,
+    "difficulty": "easy",
+    "guides": ["5c8a24822f8fb814b56fa104", "5c8a24822f8fb814b56fa110"],
+    "price": 1200,
+    "summary": "Un voyage royal au fil des plus beaux châteaux de France",
+    "description": "Plongez dans l'histoire de France en parcourant la majestueuse Vallée de la Loire, inscrite au patrimoine mondial de l'UNESCO.\nCe circuit vous fait découvrir les plus beaux joyaux de la Renaissance française à travers ses châteaux emblématiques.\nVous explorerez des jardins à la française exceptionnels, dégusterez les vins fins des vignobles de Loire, et vous imprégnerez de l'art de vivre des rois de France.\nEntre visites guidées des châteaux, promenades en bateau sur la Loire, et découvertes gastronomiques, ce voyage vous transporte dans le luxe et le raffinement de la Renaissance.",
+    "imageCover": "tour-loire-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c3014",
+        "description": "Château de Chambord",
+        "type": "Point",
+        "coordinates": [1.517592, 47.616316],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3013",
+        "description": "Château de Chenonceau",
+        "type": "Point",
+        "coordinates": [1.07094, 47.32472],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3012",
+        "description": "Château d'Amboise",
+        "type": "Point",
+        "coordinates": [0.984616, 47.413127],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3011",
+        "description": "Château de Villandry",
+        "type": "Point",
+        "coordinates": [0.509731, 47.340063],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Strasbourg, France",
+      "type": "Point",
+      "coordinates": [7.75165, 48.58334],
+      "address": "Place de la Cathédrale, 67000 Strasbourg, France"
+    },
+    "ratingsAverage": 4.1,
+    "ratingsQuantity": 11,
+    "images": [],
+    "startDates": [
+      "2025-04-20T09:00:00.000Z",
+      "2025-07-15T09:00:00.000Z",
+      "2025-12-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c3020",
+    "name": "Charmes d'Alsace",
+    "duration": 5,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": ["5c8a24822f8fb814b56fa104", "5c8a24822f8fb814b56fa112"],
+    "price": 900,
+    "summary": "Un voyage féerique au cœur des traditions alsaciennes",
+    "description": "Découvrez l'Alsace authentique, région au charme unique où se mêlent influences françaises et germaniques.\nCe circuit vous emmène à la découverte des plus beaux villages de la Route des Vins, avec leurs maisons à colombages colorées et leurs traditions séculaires.\nVous participerez à des dégustations dans des caves prestigieuses, découvrirez la richesse de la gastronomie alsacienne, et vous émerveillerez devant l'architecture exceptionnelle des villes et villages.\nDe la majestueuse cathédrale de Strasbourg aux remparts de Riquewihr, chaque étape est un nouveau chapitre de l'histoire alsacienne.",
+    "imageCover": "tour-alsace-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c3024",
+        "description": "Colmar",
+        "type": "Point",
+        "coordinates": [7.358512, 48.076876],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3023",
+        "description": "Riquewihr",
+        "type": "Point",
+        "coordinates": [7.298279, 48.166667],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3022",
+        "description": "Haut-Koenigsbourg",
+        "type": "Point",
+        "coordinates": [7.344666, 48.249915],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3021",
+        "description": "Obernai",
+        "type": "Point",
+        "coordinates": [7.482778, 48.462222],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Périgueux, France",
+      "type": "Point",
+      "coordinates": [0.721124, 45.184029],
+      "address": "Place de l'Ancien Hôtel de Ville, 24000 Périgueux, France"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 15,
+    "images": [],
+    "startDates": [
+      "2025-04-10T09:00:00.000Z",
+      "2025-05-15T09:00:00.000Z",
+      "2025-09-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c3030",
+    "name": "Trésors du Périgord",
+    "duration": 7,
+    "maxGroupSize": 10,
+    "difficulty": "medium",
+    "guides": ["5c8a24822f8fb814b56fa104", "5c8a24822f8fb814b56fa113"],
+    "price": 950,
+    "summary": "Un voyage dans le temps entre préhistoire et gastronomie",
+    "description": "Explorez le Périgord, terre de traditions où l'histoire se lit dans chaque pierre.\nCe circuit vous fait remonter le temps, des grottes préhistoriques aux châteaux médiévaux.\nVous découvrirez les secrets de la truffe noire, du foie gras et autres délices de la gastronomie périgourdine.\nLes activités alternent entre visites de sites historiques exceptionnels, descentes en canoë sur la Dordogne, et exploration de villages médiévaux perchés.\nLes marchés traditionnels, les démonstrations culinaires et les rencontres avec les producteurs locaux rythment ce voyage au cœur d'une des régions les plus authentiques de France.",
+    "imageCover": "tour-perigord-cover.avif",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c3034",
+        "description": "Sarlat-la-Canéda",
+        "type": "Point",
+        "coordinates": [1.217346, 44.888689],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3033",
+        "description": "Lascaux IV",
+        "type": "Point",
+        "coordinates": [1.167867, 45.05469],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3032",
+        "description": "Beynac-et-Cazenac",
+        "type": "Point",
+        "coordinates": [1.145363, 44.840386],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c3031",
+        "description": "Saint-Émilion",
+        "type": "Point",
+        "coordinates": [-0.156111, 44.894444],
+        "day": 7
+      }
+    ]
+  }
+]

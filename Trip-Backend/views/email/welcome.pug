@@ -1,0 +1,17 @@
+extends baseEmail
+
+block content
+  p Bonjour #{firstName},
+  p Bienvenue chez Trip, nous sommes ravis de vous accueillir 🎉🙏
+  p Nous sommes une grande famille, alors n'oubliez pas de mettre à jour votre photo de profil pour que nous puissions mieux vous connaître !
+  table.btn.btn-primary(role='presentation', border='0', cellpadding='0', cellspacing='0')
+    tbody
+      tr
+        td(align='left')
+          table(role='presentation', border='0', cellpadding='0', cellspacing='0')
+            tbody
+              tr
+                td
+                  a(href=`${url}`, target='_blank') Aller sur le site
+  p Si vous avez besoin d'aide pour réserver votre prochaine excursion, n'hésitez pas à me contacter !
+  p - Julien Bérard, CEO
